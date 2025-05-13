@@ -1,11 +1,13 @@
-package kr.ac.tukorea.ge.and.yunseong.akg_project;
+package kr.ac.tukorea.ge.and.yunseong.akg_project.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
+
+import kr.ac.tukorea.ge.and.yunseong.akg_project.R;
+
 public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
